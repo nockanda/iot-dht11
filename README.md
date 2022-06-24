@@ -4,7 +4,7 @@ Check the temperature and humidity on your smartphone using Arduino and dht11 se
 ![501-3_bb](https://user-images.githubusercontent.com/106683637/175526014-8eba2bde-ac42-4c40-9297-b6ece700379a.jpg)
 
 This is the schematic of the project! The left one is when you upload the program and the right one is when you use it!
-This code requires the dht11 library!
+This code requires the dht11 1.3.8 version library!
 
 Below is an explanation video! Sorry, it's in Korean!
 
